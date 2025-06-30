@@ -1,1 +1,120 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ShoFruit – Salad Buah Segar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff8f2;
+      color: #333;
+    }
+    header {
+      background-color: #ff6b6b;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 30px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #ff6b6b;
+    }
+    .product {
+      background: white;
+      padding: 20px;
+      margin: 15px 0;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .cta {
+      background: #ffe7e0;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+    }
+    .cta a {
+      display: inline-block;
+      background: #ff6b6b;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+    footer {
+      text-align: center;
+      background: #ff6b6b;
+      color: white;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ShoFruit – Salad Buah Segar Setiap Hari!</h1>
+    <p>“Segarnya Buah, Manisnya Hidup”</p>
+  </header>
 
+  <section>
+    <h2>Tentang ShoFruit</h2>
+    <p>ShoFruit menyajikan salad buah segar dengan saus creamy khas. Tanpa pengawet, tanpa pewarna buatan, hanya rasa alami dari buah pilihan.</p>
+  </section>
+
+  <section>
+    <h2>Produk Kami</h2>
+    <div class="product">
+      <h3>ShoFruit Cup Mini</h3>
+      <p>350ml – Rp 15.000</p>
+    </div>
+    <div class="product">
+      <h3>ShoFruit Regular</h3>
+      <p>500ml – Rp 25.000</p>
+    </div>
+    <div class="product">
+      <h3>ShoFruit Jumbo</h3>
+      <p>1 Liter – Rp 45.000</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Kenapa Pilih Kami?</h2>
+    <ul>
+      <li>Buah segar setiap hari</li>
+      <li>Saus creamy homemade</li>
+      <li>Bisa request topping & manis</li>
+      <li>Order mudah via WhatsApp</li>
+      <li>Bisa untuk acara & ulang tahun</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Testimoni</h2>
+    <blockquote>“Salad buah terenak yang pernah aku coba! Anak-anak juga suka banget!” – Retno</blockquote>
+    <blockquote>“Order berkali-kali dan rasanya konsisten. Buahnya segar terus.” – Virga</blockquote>
+  </section>
+
+  <section class="cta">
+    <h2>Order Sekarang!</h2>
+    <p>📱 WhatsApp: <a href="https://wa.me/6282112022391">Klik untuk Chat</a><br>
+    📸 Instagram: <a href="https://instagram.com/anisaaa.sy">@anisaaa.sy.</a></p>
+    <a href="https://wa.me/6282112022391">Pesan Sekarang</a>
+  </section>
+
+  <section>
+    <h2>Lokasi & Jam Operasional</h2>
+    <p>📍 Perum Mustika , Tangerang<br>
+    🕒 08.00 – 18.00 WIB</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ShoFruit. All rights reserved.</p>
+  </footer>
+</body>
+</html
